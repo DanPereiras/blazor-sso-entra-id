@@ -1,4 +1,4 @@
-# Case de Portfólio: Implementação de SSO com Microsoft Entra ID em Blazor Server
+# Implementação de SSO com Microsoft Entra ID em Blazor Server
 
 ## 📌 Visão Geral
 Este projeto apresenta a implementação de um sistema de **Single Sign-On (SSO)** utilizando **Microsoft Entra ID (Azure AD)** em uma aplicação **Blazor Server (.NET 8/9)**. O foco principal é a segurança de identidade, garantindo que apenas usuários autenticados da organização acessem a plataforma, utilizando protocolos modernos de autenticação e autorização.
